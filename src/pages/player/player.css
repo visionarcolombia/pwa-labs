@@ -1,0 +1,10 @@
+.container {
+    position: relative;
+    overflow: hidden;
+    background-color: #ededed;
+  }
+  
+  /* Then style the iframe to fit in the container div with full height and width */
+  .container-responsive {
+    height: calc(100vh - 64px);
+  } 
